@@ -1,0 +1,5 @@
+bin\Debug\Practica01.exe
+bin\Debug\Practica01.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Practica01.exe
+obj\Debug\Practica01.pdb
